@@ -1,0 +1,10 @@
+.mypic{
+height: 80px;
+}
+.mycard1{
+    display: inline-flex;
+    height: 300px;
+}
+.mycard{
+    height: 300px;
+}
