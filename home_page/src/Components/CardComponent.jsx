@@ -13,7 +13,7 @@ function CardComponent() {
       <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
-          Some quick example text to build on the card title and make up the
+          Some quick example soni text to build on the card title and make up the
           bulk of the card's content.
         </Card.Text>
         <Button variant="primary">Buy Now</Button>
